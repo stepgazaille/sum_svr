@@ -1,0 +1,6 @@
+name: sum_svr
+dependencies:
+  - python=3.6
+  - jupyter
+  - pylint
+  - rope
